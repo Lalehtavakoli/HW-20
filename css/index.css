@@ -30,7 +30,17 @@
       margin: 20;
       padding: 0;
     }
-    
+    .logo{
+      width: 100px;
+      
+      }
+
+      .navbar-collapse{
+        flex-grow: 0 !important;
+
+      }
+
+
     .problemStatement{
      
         padding-top: 70px;
@@ -39,3 +49,26 @@
         margin-bottom: 5%;
        
     }
+
+ .hero-section{
+  padding-top: 50px;
+ }
+
+ 
+ .userPersona{
+  width:  100%;
+  height: auto;
+  
+ }
+ .userflow-image{
+  width: 80%;
+  height: auto;
+  padding-left: 30%;
+ }
+
+.mobilemockup{
+ padding-left: 40%;
+}
+.desktopmockup{
+  padding-left: 10%;
+}
